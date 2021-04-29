@@ -57,16 +57,16 @@ export default {
     return{
       projets:[
         {
-          nom:"VisualKraken",img:"https://api.galandtristan.be/uploads/mockup_VK_46f786e0ff.png",info:"VisualKraken propose nos service de création de site web, de graphisme et de communication via les réseaux sociaux ou vidéo.", lien:"https://visualkraken.netlify.app/"
+          nom:"VisualKraken",img:"https://api.galandtristan.be/uploads/medium_Visual_Kraken_57cf859ce1.png",info:"VisualKraken propose nos service de création de site web, de graphisme et de communication via les réseaux sociaux ou vidéo.", lien:"https://visualkraken.netlify.app/"
         },
         {
-          nom:"Lorem Ipsum",img:"https://api.galandtristan.be/uploads/Mockup_mac_bec9c682df.webp",info:"À force d'utiliser les outils gratuits en ligne, nous avons décidé, avec Benjamin Geets, de développer notre propre générateur de texte Lorem Ipsum.", lien:"https://lachougle.be/"
+          nom:"Lorem Ipsum",img:"https://api.galandtristan.be/uploads/medium_miniatiure_lorem_ipsum_c90dc619d7.webp",info:"À force d'utiliser les outils gratuits en ligne, nous avons décidé, avec Benjamin Geets, de développer notre propre générateur de texte Lorem Ipsum.", lien:"https://lorem.geets.dev/"
         },
         {
-          nom:"ConsommerTournai",img:"https://api.galandtristan.be/uploads/Mockup_Consommer_Tournai_2edaa17784.webp",info:"Cette plateforme avait vocation à mettre en avant si les différents commerces tournaisiens étaient ouverts, fermés, s'ils faisaient du click 'n collect, ...", lien:"https://lachougle.be/"
+          nom:"ConsommerTournai",img:"https://api.galandtristan.be/uploads/medium_Consommer_Tournai_5914d03c7d.png",info:"Cette plateforme avait vocation à mettre en avant si les différents commerces tournaisiens étaient ouverts, fermés, s'ils faisaient du click 'n collect, ...", lien:"https://galandtristan.be/portfolio/consommertournai"
         },
         {
-          nom:"Bertrand's Quest",img:"https://api.galandtristan.be/uploads/boss_87d009b397.svg",info:"Création des personnages et décors d'un jeu pensé, conçu et développé en 24h lors des Space Office Hackaton 2021 organisé par le MIC.", lien:"https://lachougle.be/"
+          nom:"Bertrand's Quest",img:"https://api.galandtristan.be/uploads/medium_bertrand_s_quest_4a61fc1fc2.webp",info:"Création des personnages et décors d'un jeu pensé, conçu et développé en 24h lors des Space Office Hackaton 2021 organisé par le MIC.", lien:"https://bourgysquest.netlify.app/"
         }
       ],
       comps:[
