@@ -1,5 +1,5 @@
 <template>
-    <img :src="image" alt="Skills">
+    <img :src="image">
 </template>
 
 <script>

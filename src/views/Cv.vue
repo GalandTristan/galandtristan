@@ -57,22 +57,22 @@ export default {
           image:"https://galandtristan.be/media/premiere.png"
         },
         {
-          image:"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"
+          image:"@/assets/logoLogiciels/Ps.png"
         },
         {
-          image:"https://lgc.digital/wp-content/uploads/2020/06/Odoo.png"
+          image:"@/assets/logoLogiciels/Odoo.png"
         },
         {
           image:"https://galandtristan.be/media/office.png"
         },
         {
-          image:"http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png"
+          image:"@/assets/logoLogiciels/html5.png"
         },
         {
-          image:"https://winieski-k.github.io/assets/img/CSS3.png"
+          image:"@/assets/logoLogiciels/CSS3.png"
         },
         {
-          image:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"
+          image:"@/assets/logoLogiciels/vuejs.png"
         }
       ]
     }
@@ -82,8 +82,7 @@ export default {
 
 <style scoped>
 .cv{
-  width: 25vw;
-  margin: 20px auto;
+  margin: 20px 500px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -107,13 +106,17 @@ export default {
   width: 60px;
   margin: 20px;
 }
-@media (max-width: 800px){
+.cv h2{
+  margin: 20px 0;
+}
+@media (max-width: 1500px){
   .cv{
-    width: 100vw;
+    margin: 20px 15px;
     justify-content: left;
   }
   .experience{
     padding :10px;
   }
 }
+
 </style>
