@@ -7,7 +7,7 @@
       <router-link to="/">Accueil</router-link>
       <router-link to="/cv">CV</router-link>
       <router-link to="/portfolio">Portfolio</router-link>
-      <router-link to="/contact">Me Contacter</router-link>
+      <router-link to="/contact">Contact</router-link>
     </div>
   </nav>
   

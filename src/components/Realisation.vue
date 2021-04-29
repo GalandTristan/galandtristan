@@ -23,6 +23,9 @@ export default {
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
 }
+button{
+    cursor:pointer;
+}
 .contenu h3{
     margin: 10px;
     text-align: center;

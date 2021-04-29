@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>Me contacter</h1>
+    <h1>Contact</h1>
     <ButtonMail/>
     <div class="rs">
 

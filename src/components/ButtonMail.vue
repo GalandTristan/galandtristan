@@ -25,6 +25,7 @@ export default{
 
 <style scoped>
 button{
+    cursor:pointer;
     margin: 30px;
     padding:15px 40px;
     background-color: white;
