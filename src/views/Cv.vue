@@ -31,7 +31,7 @@ export default {
     return{
       projets:[
         {
-          nom:"Serveur",date:"2015-2020",description:"Pendant plus de 5 ans, j’ai été serveur dans différents restaurants et évènement (Comptoir 17, Beffroi, Ferme du Reposoir, Jeudis Oui et Cense de Rigaux)."
+          nom:"Serveur",date:"2015-2020",description:"Pendant plus de 5 ans, j’ai été serveur dans différents restaurants et événements (Comptoir 17, Beffroi, Ferme du Reposoir, Jeudis Oui et Cense de Rigaux)."
         },
         {
           nom:"Vendeur",date:"2020-2021",description:"Je suis vendeur (étudiant) chez JD Sport dans le centre commercial les Bastions."
@@ -40,7 +40,7 @@ export default {
           nom:"Consultant réseaux sociaux",date:"2021",description:"J’ai apporté mon aide pour lié les réseaux sociaux à la boutique en ligne sur Shopify."
         },
         {
-          nom:"Création de Menu",date:"2020-2021",description:"Réalisation de plusieurs menu à l’occasion d’évènement tels que la la St Valentin, Nouvel An, etc."
+          nom:"Création de Menu",date:"2020-2021",description:"Réalisation de plusieurs menus à l’occasion d’événement tels que la St Valentin, Nouvel An, etc."
         }
       ],
       comps:[
@@ -57,22 +57,22 @@ export default {
           image:"https://galandtristan.be/media/premiere.png"
         },
         {
-          image:"@/assets/logoLogiciels/Ps.png"
+          image: require("@/assets/logoLogiciels/Ps.png")
         },
         {
-          image:"@/assets/logoLogiciels/Odoo.png"
+          image: require("@/assets/logoLogiciels/Odoo.png")
         },
         {
           image:"https://galandtristan.be/media/office.png"
         },
         {
-          image:"@/assets/logoLogiciels/html5.png"
+          image: require("@/assets/logoLogiciels/html5.png")
         },
         {
-          image:"@/assets/logoLogiciels/CSS3.png"
+          image: require("@/assets/logoLogiciels/CSS3.png")
         },
         {
-          image:"@/assets/logoLogiciels/vuejs.png"
+          image: require("@/assets/logoLogiciels/vuejs.png")
         }
       ]
     }

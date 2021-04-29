@@ -6,7 +6,7 @@
 
   <!-- Introduction -->
   <div class="intro">
-    <p>Je m’appelle <span id="vert">Galand Tristan</span>,<br> Je suis <span id="rouge">étudiant</span> en <span id="bleu">e-business</span> et passionné par le <span id="jaune">graphisme</span> et le <span id="vertfonce">Web design</span>. </p>
+    <p>Je m’appelle <span id="vert">Galand Tristan</span>.<br> Je suis <span id="rouge">étudiant</span> en <span id="bleu">e-business</span> et passionné par le <span id="jaune">graphisme</span> et le <span id="vertfonce">Web design</span>. </p>
   </div>
 
   <!-- Réalisations -->
@@ -25,7 +25,7 @@
   <!-- Informations-->
   <div class="citation bg-custom-citation">
     <p>
-      Depuis maintenant plusieurs année, ce qui me fait vibrer c’est le design.
+      Depuis maintenant plusieurs années, ce qui me fait vibrer, c’est le design. 
       Que ça soit pour la réalisation d’une identité graphique, d’une carte de restaurant ou bien du design d’un site web, chaque projet confirme mon envie de faire de cette passion mon métier.
     </p>
     <h3>Compétences : </h3>
@@ -57,7 +57,7 @@ export default {
     return{
       projets:[
         {
-          nom:"VisualKraken",img:"https://api.galandtristan.be/uploads/medium_Visual_Kraken_57cf859ce1.png",info:"VisualKraken propose nos service de création de site web, de graphisme et de communication via les réseaux sociaux ou vidéo.", lien:"https://visualkraken.netlify.app/"
+          nom:"VisualKraken",img:"https://api.galandtristan.be/uploads/medium_Visual_Kraken_57cf859ce1.png",info:"VisualKraken propose nos services de création de site web, de graphisme et de communication via les réseaux sociaux ou vidéo.", lien:"https://visualkraken.netlify.app/"
         },
         {
           nom:"Lorem Ipsum",img:"https://api.galandtristan.be/uploads/medium_miniatiure_lorem_ipsum_c90dc619d7.webp",info:"À force d'utiliser les outils gratuits en ligne, nous avons décidé, avec Benjamin Geets, de développer notre propre générateur de texte Lorem Ipsum.", lien:"https://lorem.geets.dev/"
@@ -186,6 +186,16 @@ export default {
 .contact img{
   width: 70vw;
   height: 70vh;
+}
+@media (max-width:1500px) {
+  .citation{
+    padding: 50px 60px;
+  }
+  .citation p{
+    font-size: 28px;
+    line-height: 40px;
+  }
+
 }
 @media (max-width: 800px){
   .home{
