@@ -30,7 +30,7 @@
       </a>
     </div>
 
-    <div>
+    <div class="illustration">
       <img src="@/assets/pcdeface.svg" alt="Image de mon bureau de face">
     </div>
   </div>
@@ -78,8 +78,10 @@ export default {
   }
   div .rs a{
     margin: 10px;
+    height: 20px;
+    width: 20px;
   }
-  div img{
+  .illustration img{
     margin: 10px 0;
     width: 100vw;
   }
