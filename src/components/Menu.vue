@@ -3,7 +3,7 @@
     <div class="GT">
       <a class="permarker" href="/">Galand Tristan</a>
     </div>
-    <div>
+    <div class="pages">
       <router-link to="/">Accueil</router-link>
       <router-link to="/cv">CV</router-link>
       <router-link to="/portfolio">Portfolio</router-link>
@@ -29,6 +29,10 @@ nav a {
 }
 nav a.router-link-exact-active {
   text-decoration:underline;
+}
+
+nav .pages{
+  margin: auto 0;
 }
 @media (max-width: 800px){
   nav{
