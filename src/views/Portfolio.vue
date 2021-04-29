@@ -49,7 +49,7 @@ export default {
 
 <style scoped>
 .portfolio{
-  margin: 0 25vw;
+  margin: 0 300px;
 }
 
 .portfolio p{
@@ -62,12 +62,14 @@ export default {
     flex-wrap: wrap;
     justify-content: center;
 }
-
+@media (max-width: 1500px){
+  .portfolio{
+    margin: 0 10px;
+  }
+}
 @media (max-width: 800px){
-  
+  .portfolio{
+    margin: 0 10px;
+  }
 }
 </style>
-
-réalisation
-expérience 
-skill

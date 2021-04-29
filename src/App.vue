@@ -29,7 +29,7 @@ body{
 @font-face {
   font-family: "Perma";
   src: local("Perma"),
-   url(../font/PermanentMarker.ttf) format("truetype");
+   url(./assets/font/PermanentMarker.ttf) format("truetype");
 }
 .permarker{
   font-family: "Perma";
