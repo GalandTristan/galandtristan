@@ -37,7 +37,7 @@ export default {
           nom:"Vendeur",date:"2020-2021",description:"Je suis vendeur (étudiant) chez JD Sport dans le centre commercial les Bastions."
         },
         {
-          nom:"Consultant réseaux sociaux",date:"2021",description:"J’ai apporté mon aide pour lié les réseaux sociaux à la boutique en ligne sur Shopify."
+          nom:"Consultant réseaux sociaux",date:"2021",description:"J’ai apporté mon aide pour lier les réseaux sociaux à la boutique en ligne sur Shopify."
         },
         {
           nom:"Création de Menu",date:"2020-2021",description:"Réalisation de plusieurs menus à l’occasion d’événement tels que la St Valentin, Nouvel An, etc."
