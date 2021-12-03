@@ -1,19 +1,3 @@
-# monsite
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Galand Tristan
+<p> 📌Tournai, Belgique </p>
+<p>Html et CSS il n'y a que ça de vrai 👌</p>
